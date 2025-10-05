@@ -1,0 +1,7 @@
+C:\Users\FC Technologies\Documents\Visual Studio 2022\ApplicationOfDLL\ApplicationOfDLL\bin\Debug\ApplicationOfDLL.exe.config
+C:\Users\FC Technologies\Documents\Visual Studio 2022\ApplicationOfDLL\ApplicationOfDLL\bin\Debug\ApplicationOfDLL.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\ApplicationOfDLL\ApplicationOfDLL\bin\Debug\ApplicationOfDLL.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\ApplicationOfDLL\ApplicationOfDLL\obj\Debug\ApplicationOfDLL.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\ApplicationOfDLL\ApplicationOfDLL\obj\Debug\ApplicationOfDLL.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\ApplicationOfDLL\ApplicationOfDLL\obj\Debug\ApplicationOfDLL.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\ApplicationOfDLL\ApplicationOfDLL\obj\Debug\ApplicationOfDLL.pdb
